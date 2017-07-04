@@ -1,7 +1,7 @@
 # vulper-challenge
 Do or do not, there is no try!
 
-##Instruções
+## Instruções
 
 **1.** Acesse o link https://app.vulpi.com.br/dev realize seu cadastro.
 
@@ -17,7 +17,7 @@ Dica: o Framework [Django](https://docs.djangoproject.com/pt-br/1.11/intro/tutor
 
 ==============
 
-###Introdução
+### Introdução
 
 Seu código será avaliado principalmente nos seguintes aspectos:
 
@@ -37,7 +37,7 @@ A Vulpi está reescrevendo seu sistema de buscas no Github e deseja consumir a n
 
 Para isso, precisamos de um sistema implemente a história abaixo.
 
-###História
+### História
 
 Eu como desenvolvedor, quero poder fazer uma requisição **GET** à um end-point como:
 
