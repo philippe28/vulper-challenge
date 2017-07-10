@@ -3,7 +3,7 @@ Do or do not, there is no try!
 
 ## Instruções
 
-**1.** Acesse o link https://app.vulpi.com.br/dev realize seu cadastro.
+**1.** Acesse o link https://app.vulpi.com.br/vulpi/301 realize seu cadastro.
 
 **2.** Crie um **fork** deste projeto.
 
